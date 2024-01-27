@@ -1,4 +1,4 @@
-package com.psp.ArithmeticDemo;
+package com.psp.operators;
 
 public class ArithmeticOperator {
 
